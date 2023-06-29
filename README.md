@@ -1,5 +1,6 @@
 # Php_clothes_site
 
+An application specifically for the Data Warehousing and Business Intelligence course.
 The web application was developed using PHP, JavaScript, and HTML/CSS. To run the application, we utilized the XAMPP suite and Oracle Database.
 We had to use the oci8 extension for Oracle Database.
 
