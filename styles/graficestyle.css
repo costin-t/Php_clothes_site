@@ -1,0 +1,56 @@
+/* graficstyle.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+canvas {
+    max-width: 400px;
+    max-height: 400px;
+    margin-bottom: 20px;
+}
+
+nav {
+    background-color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.1rem;
+    margin-left: 10px;
+}
+
+nav:hover{
+    background-color: #808080;
+}
+
+h3 {
+    color: #000000;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #000000;
+    margin-bottom: 20px;
+}
